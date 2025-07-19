@@ -1,1 +1,1 @@
-# quotex-sniper-bot-cloud
+# quotex-sniper-bot-cloud1
